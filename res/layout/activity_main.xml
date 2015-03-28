@@ -4,11 +4,11 @@
     android:layout_height="match_parent" >
 
     <com.zin.tag.view.FlowLayout
-        android:padding="10dp"
         android:id="@+id/fview"
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
-        android:background="#e5e5f5" >
+        android:background="#e5e5f5"
+        android:padding="10dp" >
 
     </com.zin.tag.view.FlowLayout>
 

@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.widget.TextView;
 
-import com.example.itag.R;
 import com.zin.tag.view.FlowLayout;
 
 public class MainActivity extends Activity {
